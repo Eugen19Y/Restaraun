@@ -1,0 +1,286 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url(http://mobimg.b-cdn.net/v3/fetch/33/3312dcd95dad2ba61fcc53512a55a840.jpeg);
+    background-size: cover;
+    backdrop-filter: brightness(60%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.title{
+    background: linear-gradient(yellow, red);
+    box-shadow: 0px 9px 10px rgb(153, 7, 7);
+}
+.img{
+    width: 80px;
+    height: 70px;
+}
+.logo{
+    display: inline;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    border-radius: 15px;
+    padding: 5px;
+    transition: 0.6s;
+}
+.logo:hover{
+    background-color: rgba(9, 137, 223, 0.589);
+    color: rgb(239, 244, 245);
+    font-size: 37px
+}
+.cont{
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 400;
+    text-decoration: none;
+    margin: 200px;
+    padding: 4px;
+    border-radius: 15px;
+    transition: 0.6s;
+}
+.cont:hover{
+    background-color: rgba(15, 71, 175, 0.747);
+    color: rgb(231, 12, 12);
+    font-size: 27px;
+    border: solid 1px #ccc;
+}
+.h2{
+    text-align: center;
+    transform: rotate(5deg);
+    margin: 70px 500px;
+    font-size: 60px;
+    border: solid 2px red;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    border-radius: 70px;
+}
+.main2{
+    background: linear-gradient(orange, rgb(35, 12, 163));
+    background-size: cover;
+    background-color: rgb(240, 235, 235);
+    display: block;
+    margin: 20px auto;
+    margin: 90px 90px;
+    padding-top: 30px;
+    box-shadow: -5px 5px 9px rgba(9, 56, 187, 0.863);
+}
+.main3{
+    background: url(https://donklephant.net/wp-content/uploads/2020/05/a1.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 500px;
+    display: block;
+    margin: 0px auto;
+    padding-top: 70px;
+    transition: 0.6s;
+}
+.main3:hover{
+    width: 600px;
+    height: 450px;
+}
+.card-title{
+text-align: center;
+margin-top: 30px;
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(234, 240, 240);
+}
+.card-title2{
+    text-align: center;
+    margin: 17px 180px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+    background-color: rgba(255, 0, 0, 0.541);
+    border-radius: 20px;
+}
+.card8{
+    text-align: center;
+    font-size: 23px;
+    color: rgba(235, 193, 10, 0.849);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.card6{
+    text-align: center;
+    margin: 22px 600px;
+    font-size: 35px;
+    color: red;
+    background-color: rgba(15, 15, 15, 0.884);
+    font-style: italic;
+    box-shadow: -6px 6px 9px rgba(83, 2, 2, 0.973);
+}
+.liner{
+    width: 550px;
+    height: 550px;
+    background-color: rgba(30, 19, 179, 0.801);
+    margin: 70px 20px 20px 60px;
+    padding-top: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    box-shadow: -2px 2px 9px rgba(28, 8, 207, 0.87)
+}
+.sushi{
+    background: url(https://img.ex.co/image/upload/ar_1.7777777777777777,c_crop/q_auto:good,f_auto,fl_lossy,w_640,c_limit,dpr_1/v1632908303/rywcwozlvyayvwhtjgau.png);
+    background-size: cover;
+    width: 400px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+}
+.sushih1{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(0, 255, 255, 0.89);
+}
+.p2{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.719);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.price1{
+    margin: 30px 30px 20px 40px;
+    font-size: 34px;
+    font-weight: 800;
+    color: white;
+}
+.price{
+    font-size: 43px;
+    color: gold;
+}
+.buy{
+    text-align: center;
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: black;
+    background-color: rgb(7, 160, 7);
+    transition: 0.5s;
+}
+.buy:hover{
+    border-radius: 15px;
+    background-color: rgb(226, 118, 17);
+}
+.liner2{
+    width: 550px;
+    height: 550px;
+    background: linear-gradient(orange, red);
+    margin: 70px 20px 20px 10px;
+    padding-top: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    box-shadow: -2px 2px 9px rgba(206, 49, 10, 0.849)
+}
+.sushi2{
+    background: url(https://sun1-18.userapi.com/1TxvZFM2Oqz2GVWm0pm2H7CTWOa3iLdF6iwXXQ/WRI9250iSSI.jpg);
+    background-size: cover;
+    width: 400px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+}
+.titlesushi{
+    font-size: 30px;
+    font-family: cursive;
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(0, 255, 255, 0.89);
+}
+.p3{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.719);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.price4{
+    margin: 30px 30px 20px 40px;
+    font-size: 34px;
+    font-weight: 800;
+    color: white;
+}
+.price6{
+    font-size: 43px;
+    color: gold;
+}
+.buy2{
+    text-align: center;
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: black;
+    background-color: rgb(7, 160, 7);
+    transition: 0.5s;
+}
+.buy2:hover{
+    border-radius: 15px;
+    background-color: rgb(92, 13, 196);
+}
+
+.liner3{
+    width: 550px;
+    height: 520px;
+    background: linear-gradient(rgb(72, 8, 221), red);
+    margin: 70px 20px 10px 20px;
+    padding-top: 50px;
+    border-radius: 20px;
+    display: inline-block;
+    box-shadow: -2px 2px 9px rgba(10, 74, 194, 0.829);
+}
+
+.sushi3{
+    background: url(https://kd96.ru/netcat_files/27/22/DSC00386.jpg);
+    background-size: cover;
+    width: 400px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+.t{
+    font-size: 30px;
+    font-family: cursive;
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(0, 255, 255, 0.89);
+}
+
+.p9{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.719);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.price0{
+    margin: 30px 30px 20px 40px;
+    font-size: 34px;
+    font-weight: 800;
+    color: white;
+}
+
+.buy9{
+    text-align: center;
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: black;
+    background-color: rgb(7, 160, 7);
+    transition: 0.5s;
+}
+
+.buy9:hover{
+    border-radius: 15px;
+    background-color: rgb(92, 13, 196);
+}
